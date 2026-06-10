@@ -162,7 +162,7 @@ Dimensions = {
 	'Visible': 'visible',
 	'Week': 'week',
 	'Weekly cohort': 'cohortNthWeek',
-	'Year': 'year'
+	'Year': 'year',
 	'veasierDominioID': 'veasier_dominio_id'
 	'veasierPlayerID': 'veasier_player_id'
 	'veasierVideoID': 'veasier_video_id'
